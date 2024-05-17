@@ -14,7 +14,9 @@
 	<a href="https://velog.io/@victoriapasta/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" alt="Velog Badge" />
 </a>
+	<a href="201912431@jbnu.ac.kr">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+		</a>
 	<br>
 </div>
 <br>
