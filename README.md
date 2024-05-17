@@ -10,6 +10,8 @@
 </div>
 <br>
 <div align=center>
+	<h2>Baekjoon Online Judge</h2>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=simpleicons_Python&logoColor=white"/>
 	
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=timel1109)](https://solved.ac/timel1109)
   
