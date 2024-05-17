@@ -11,7 +11,7 @@
 <br>
 <div align=center>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={timel1109})](https://solved.ac/{timel1109})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=timel1109)](https://solved.ac/timel1109)
   
 <!--
 **Victoriapasta/Victoriapasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
